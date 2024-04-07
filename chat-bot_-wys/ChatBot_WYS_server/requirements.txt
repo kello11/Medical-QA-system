@@ -1,0 +1,14 @@
+flask
+Flask-SQLAlchemy
+flask-cors
+flask_migrate
+WTForms
+alembic
+SQLAlchemy
+werkzeug
+email-validator
+WTForms
+Flask-Mail
+requests
+PyJWT
+pytz
